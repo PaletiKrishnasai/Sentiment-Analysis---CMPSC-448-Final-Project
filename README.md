@@ -19,7 +19,7 @@
 ### Results Obtained (For 5 epochs)
 | Model  | CNN | RNN | DistilBERT |
 | :---:  | :---:  | :---:  | :---:  |
-| Validation Accuracy  |  90.5 | 87.9 | 93.2 |
+| Validation Accuracy  |  90.5% | 87.9% | 93.2% |
 
 ### Usage
 - Fork/Clone the repository and run the notebooks on colab.
