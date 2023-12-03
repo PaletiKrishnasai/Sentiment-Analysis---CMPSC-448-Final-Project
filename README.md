@@ -1,9 +1,9 @@
 # Sentiment-Analysis---CMPSC-448-Final-Project
 
 ### Team Members:
-- Krishnasai Paleti (Team Lead)
-- Raghavendra Jagirdar
-- Mega Sri Shyam
+- Krishnasai Paleti (Team Lead) -kxp5619@psu.edu
+- Raghavendra Jagirdar - rvj5301@psu.edu
+- Mega Sri Shyam - mpb6512@psu.edu
 
 ### Dataset
 - imdb movie review dataset
