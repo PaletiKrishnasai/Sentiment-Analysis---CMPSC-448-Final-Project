@@ -1,0 +1,9 @@
+keras==2.14.0
+scikeras
+optuna
+transformers 
+datasets 
+evaluate 
+accelerate
+numpy
+pandas
